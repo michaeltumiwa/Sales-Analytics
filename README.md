@@ -1,1 +1,1 @@
-# Sales-Analytics
+# Sales Analytics (SQL, PowerBI)
