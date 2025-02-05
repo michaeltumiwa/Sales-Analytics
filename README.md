@@ -33,7 +33,7 @@ Build a Power BI system that integrates automation, predictive insights, and use
 
 ---
 
-## Step 3: Building the Data Pipeline
+## Building the Data Pipeline
 ### Data Extraction & Preparation
 To ensure accurate and reliable reporting, sales data was extracted and cleaned from AdventureWorksDW.
 
@@ -54,7 +54,7 @@ To ensure accurate and reliable reporting, sales data was extracted and cleaned 
 
 ---
 
-## Step 4: Crafting Interactive Dashboards
+## Crafting Interactive Dashboards
 ### Power BI Dashboards: Providing Actionable Insights
 Each dashboard was designed to provide clear, interactive, and real-time analytics.
 
